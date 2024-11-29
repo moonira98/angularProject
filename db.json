@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "firstName": "sdfsdf",
+      "lastName": "sdfsd",
+      "phoneNumber": "121231",
+      "city": "sdvszdsvs"
+    },
+    {
+      "id": "c669",
+      "firstName": "sdfsdf",
+      "lastName": "wqfsdfsf",
+      "phoneNumber": 12333,
+      "city": "sdfsdfs"
+    },
+    {
+      "id": "1956",
+      "firstName": "dfsdf",
+      "lastName": "sdfsdf",
+      "phoneNumber": 11313,
+      "city": "sacsdc"
+    },
+    {
+      "id": "d547",
+      "firstName": "aaaa",
+      "lastName": "sdfsdf",
+      "phoneNumber": 11313,
+      "city": "sacsdc"
+    },
+    {
+      "id": "12af",
+      "firstName": "Munira",
+      "lastName": "Mirzoeva",
+      "phoneNumber": 1998,
+      "city": "dushanbe"
+    },
+    {
+      "id": "b742",
+      "firstName": "bbb",
+      "lastName": "sdfsdf",
+      "phoneNumber": 11313,
+      "city": "sacsdc"
+    },
+    {
+      "id": "c5a6",
+      "firstName": "sdfsd",
+      "lastName": "fsdfs",
+      "phoneNumber": 3123412,
+      "city": "aczsxcx"
+    },
+    {
+      "id": "622c",
+      "firstName": "naruto",
+      "lastName": "uzumaki",
+      "phoneNumber": 0,
+      "city": "dushanbe"
+    }
+  ],
+  "signup": [
+    {
+      "id": "f5f7",
+      "name": "dfsdf",
+      "email": "sdfsdf",
+      "password": "sdfsdf"
+    },
+    {
+      "id": "17ee",
+      "name": "Munira",
+      "email": "munik",
+      "password": "1111"
+    }
+  ],
+  "contactus": [
+    {},
+    {
+      "id": "1209",
+      "name": "sdfsd",
+      "email": "sdfsd",
+      "message": "sdfsdf"
+    }
+  ]
+}
